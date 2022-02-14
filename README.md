@@ -12,7 +12,7 @@ In this repo you will find all the tutorials related with Study Group meetings (
 * Letícia Lima - Rio de Janeiro State University
 * Liliane Conteville - Hermínio da Silveira University Center
 * Sindy Licette Piñero - Federal University of Technology
-* Thayana Tavares - Federal University of Sao Carlos (Sao Paulo)
+* Thayana Vieira Tavares - Federal University of Sao Carlos (Sao Paulo)
 
 
 
